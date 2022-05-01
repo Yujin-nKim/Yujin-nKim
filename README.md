@@ -3,6 +3,7 @@
 
 <h3>👩‍💻Tech</h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=Java&logoColor=white"/>
 
 <!--
 **Yujin-nKim/Yujin-nKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
