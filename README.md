@@ -1,8 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YujinKim&fontSize=90)
-<h2>YujinKim</h2>
 
-
+<h3>👩‍💻Tech</h3>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
 **Yujin-nKim/Yujin-nKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
