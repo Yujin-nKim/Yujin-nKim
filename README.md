@@ -17,6 +17,10 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
 </p>
 
+<h3 align="center">📧You can contact me...</h3>
+<p align="center">yujin.kimd@gmail.com</p>
+
+
 <!--
 **Yujin-nKim/Yujin-nKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
